@@ -1,6 +1,6 @@
 # Foundations of Software Engineering. Lectures
 
-![Foundations of Software Engineering](cover_image.png)
+![Foundations of Software Engineering](FSE_LOGO.jpg)
 *Picture source: [https://www.theatlantic.com](https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/)* 
 
 
