@@ -1,0 +1,7 @@
+From: Alexey Artemov <a.artemov@skoltech.ru>
+To: Skoltech Faculty Info System <sifs@skoltech.ru>
+Subject: Saying Hello
+Date: Fri, 18 Sep 2020 09:55:06 +0300
+Message-ID: <1234@local.machine.example>
+
+email and personal page of Evgeny Burnaev?
